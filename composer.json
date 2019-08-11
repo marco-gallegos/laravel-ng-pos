@@ -1,6 +1,6 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
+	"name": "marco-gallegos/laravel-ng-pos",
+	"description": "Sistema POS usando laravel y Angular JS para añadir mayor funcionalidad.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"type": "project",
